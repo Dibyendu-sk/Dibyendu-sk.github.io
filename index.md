@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>💩hello dibyendu</title>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="style.css">
     <!-- <style media="screen">
       body{
         background-color: powderblue;
