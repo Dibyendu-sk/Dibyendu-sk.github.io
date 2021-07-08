@@ -112,7 +112,7 @@
     </ol>
     <br>
     <center>
-      <button type="submit" name="submit" ><a href="contact.html">contact me</a></button>
+      <button type="submit" name="submit" ><a href="contact.md">contact me</a></button>
 </center>
 
   </body>
