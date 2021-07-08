@@ -1,6 +1,5 @@
 body{
   background-color: #E4EFE7;
-  margin-left:10px;
   
 }
 hr{
@@ -22,8 +21,4 @@ h1{
 }
 h3{
   color: #66BFBF;
-}
-table{
-  style: none;
-  opacity: 0.5;
 }
