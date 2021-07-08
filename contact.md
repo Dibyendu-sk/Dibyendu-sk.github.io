@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <form class="" action="mailto:dibyendu02@gmail.com" method="post">
   <input type="color" name="" value=""><br>
